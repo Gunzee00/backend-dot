@@ -18,7 +18,9 @@ https://app.diagrams.net/#G1vSUrZ9N1z39mcSJSC3cd0nu5tJxmaVvI#%7B%22pageId%22%3A%
 
 ->Laravel 8
 
--> MySQ
+-> MySQL
+
+-> XAMPP
 
 -> PHP 8.2
 
